@@ -1,5 +1,8 @@
 {
   "name": "outeredge/magento-disable-graphql",
+  "license": [
+    "MIT"
+  ],
   "replace": {    
     "magento/module-authorizenet-graph-ql":"*",
     "magento/module-braintree-graph-ql":"*",
