@@ -59,6 +59,7 @@
     "magento/module-versions-cms-url-rewrite-graph-ql": "*",
     "magento/module-weee-graph-ql": "*",
     "magento/module-wishlist-graph-ql": "*",
-    "paypal/module-braintree-graph-ql":"*"
+    "paypal/module-braintree-graph-ql":"*",
+    "magento/module-new-relic-reporting": "*"
   }
 }
