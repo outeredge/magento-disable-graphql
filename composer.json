@@ -3,7 +3,9 @@
   "license": [
     "MIT"
   ],
-  "replace": {    
+  "replace": {
+    "magefan/module-blog-graph-ql": "*",
+    "magento/module-admin-graph-ql-server": "*",
     "magento/module-authorizenet-graph-ql":"*",
     "magento/module-braintree-graph-ql":"*",
     "magento/module-bundle-graph-ql": "*",
@@ -20,6 +22,7 @@
     "magento/module-cms-graph-ql": "*",
     "magento/module-cms-url-rewrite-graph-ql": "*",
     "magento/module-compare-list-graph-ql": "*",
+    "magento/module-contact-graph-ql": "*",
     "magento/module-configurable-product-graph-ql": "*",
     "magento/module-customer-balance-graph-ql": "*",
     "magento/module-customer-downloadable-graph-ql":"*",
@@ -33,14 +36,20 @@
     "magento/module-gift-wrapping-graph-ql": "*",
     "magento/module-graph-ql": "*",
     "magento/module-graph-ql-cache": "*",
+    "magento/module-graph-ql-new-relic": "*",
+    "magento/module-graph-ql-resolver-cache": "*",
+    "magento/module-graph-ql-server": "*",
     "magento/module-grouped-product-graph-ql": "*",
+    "magento/module-integration-graph-ql": "*",
     "magento/module-inventory-graph-ql": "*",
     "magento/module-inventory-quote-graph-ql": "*",
     "magento/module-login-as-customer-graph-ql": "*",
     "magento/module-multiple-wishlist-graph-ql": "*",
     "magento/module-newsletter-graph-ql": "*",
+    "magento/module-order-cancellation-graph-ql": "*",
     "magento/module-quote-graph-ql": "*",
     "magento/module-payment-graph-ql": "*",
+    "magento/module-payment-services-paypal-graph-ql": "*",
     "magento/module-paypal-graph-ql": "*",
     "magento/module-re-captcha-webapi-graph-ql": "*",
     "magento/module-related-product-graph-ql":"*",
@@ -48,6 +57,8 @@
     "magento/module-reward-graph-ql": "*",
     "magento/module-rma-graph-ql": "*",
     "magento/module-sales-graph-ql": "*",
+    "magento/module-sales-rule-graph-ql": "*",
+    "magento/module-services-id-graph-ql-server": "*",
     "magento/module-staging-graph-ql": "*",
     "magento/module-store-graph-ql": "*",
     "magento/module-swatches-graph-ql": "*",
@@ -59,7 +70,6 @@
     "magento/module-versions-cms-url-rewrite-graph-ql": "*",
     "magento/module-weee-graph-ql": "*",
     "magento/module-wishlist-graph-ql": "*",
-    "paypal/module-braintree-graph-ql":"*",
-    "magento/module-new-relic-reporting": "*"
+    "paypal/module-braintree-graph-ql":"*"
   }
 }
